@@ -663,6 +663,7 @@ textarea.form-control {
   text-align: center;
 }
 
+
 .section-header:after {
   content: '';
   width: 82px;
@@ -4215,3 +4216,7 @@ footer.row {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.bandwidth-section p {
+  font-size: 16px;
+}
